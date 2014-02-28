@@ -1,0 +1,15 @@
+{
+  "name": "anaconda",
+  "main": "./lib/anaconda",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Anaconda is a full python development suite including autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for GitHub Atom using Jedi, PyFlakes, pep8, PyLint and McCabe",
+  "activationEvents": ["anaconda:toggle"],
+  "repository": "https://github.com/atom/anaconda",
+  "license": "GPL",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

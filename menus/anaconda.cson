@@ -1,0 +1,16 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  '.overlayer':
+      'Enable anaconda': 'anaconda:toggle'
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'anaconda'
+      'submenu': [
+        { 'label': 'Toggle', 'command': 'anaconda:toggle' }
+      ]
+    ]
+  }
+]
