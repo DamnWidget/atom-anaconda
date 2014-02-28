@@ -1,3 +1,8 @@
+This package doesn't work at all yet
+====================================
+
+I just created this repo because is my intention to port Anaconda extension or Sublime Text 3 to GitHub Atom. I never used CoffeeScript or Node.JS. This process is not going to be fast btw.
+
 Anaconda
 ========
 
